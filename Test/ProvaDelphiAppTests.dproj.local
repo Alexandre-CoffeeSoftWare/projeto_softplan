@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/08/11 11:48:23.677,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\Test\TestufTarefa1.pas</Transaction>
+    <Transaction>2021/08/11 11:48:24.174,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\ufTarefa1.pas</Transaction>
+    <Transaction>2021/08/11 11:53:59.981,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\fmain.pas</Transaction>
+    <Transaction>2021/08/11 11:54:16.693,C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\fmain.pas=</Transaction>
+    <Transaction>2021/08/11 11:54:47.914,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\fmain.pas</Transaction>
+    <Transaction>2021/08/11 13:20:48.277,C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\fmain.pas=</Transaction>
+    <Transaction>2021/08/11 14:35:38.851,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\Test\TestufTarefa3.pas</Transaction>
+    <Transaction>2021/08/11 14:35:39.067,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\ufTarefa3.pas</Transaction>
+    <Transaction>2021/08/11 14:36:18.976,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\uInterfaceTarefa3.pas</Transaction>
+    <Transaction>2021/08/11 14:36:58.788,=C:\Users\Alexandre-PC\Desktop\teste_SoftPlan\uRotinas.pas</Transaction>
+  </Transactions>
+</BorlandProject>
